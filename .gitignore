@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+*.log
+local_test_output/
+data_cache/
+*.parquet
+.vercel
+
+# private entrants' code — scored locally, never published
+private_agents/
+
+# local research: backtests, data cache, competitor analysis — not part of the submission
+research/
+
+# local assistant/editor settings
+.claude/
