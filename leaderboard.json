@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-07-09T17:27:45Z",
-  "as_of_market_date": "2026-07-09",
+  "generated_at_utc": "2026-07-20T15:44:21Z",
+  "as_of_market_date": "2026-07-20",
   "round_id": "trading-v0-round-2",
   "round_name": "Round 2",
   "round_start": "2026-07-07",
@@ -173,23 +173,6 @@
       "trades": 5,
       "days": 3,
       "since": "2026-07-07"
-    },
-    {
-      "name": "QQQ",
-      "label": "market context \u00b7 QQQ buy & hold",
-      "equity": 101319.0,
-      "pnl": 1319.0,
-      "ret": 0.0132,
-      "trades": 1,
-      "days": 3,
-      "since": "2026-07-07",
-      "cash": 1395.26,
-      "holdings": [
-        {
-          "t": "QQQ",
-          "q": 138.0
-        }
-      ]
     },
     {
       "name": "yog",
@@ -430,6 +413,23 @@
       "trades": 13,
       "days": 3,
       "since": "2026-07-07"
+    },
+    {
+      "name": "QQQ",
+      "label": "market context \u00b7 QQQ buy & hold",
+      "equity": 98200.88,
+      "pnl": -1799.12,
+      "ret": -0.018,
+      "trades": 1,
+      "days": 10,
+      "since": "2026-07-07",
+      "cash": 1395.26,
+      "holdings": [
+        {
+          "t": "QQQ",
+          "q": 138.0
+        }
+      ]
     }
   ]
 }
