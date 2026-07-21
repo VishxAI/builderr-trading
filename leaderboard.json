@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-07-20T20:59:57Z",
-  "as_of_market_date": "2026-07-20",
+  "generated_at_utc": "2026-07-21T15:28:27Z",
+  "as_of_market_date": "2026-07-21",
   "round_id": "trading-v0-round-2",
   "round_name": "Round 2",
   "round_start": "2026-07-07",
@@ -375,6 +375,23 @@
       "since": "2026-07-07"
     },
     {
+      "name": "QQQ",
+      "label": "market context \u00b7 QQQ buy & hold",
+      "equity": 99217.94,
+      "pnl": -782.06,
+      "ret": -0.0078,
+      "trades": 1,
+      "days": 11,
+      "since": "2026-07-07",
+      "cash": 1395.26,
+      "holdings": [
+        {
+          "t": "QQQ",
+          "q": 138.0
+        }
+      ]
+    },
+    {
       "name": "aarya",
       "label": "round 2 \u00b7 entrant",
       "equity": 99149.05,
@@ -413,23 +430,6 @@
       "trades": 13,
       "days": 3,
       "since": "2026-07-07"
-    },
-    {
-      "name": "QQQ",
-      "label": "market context \u00b7 QQQ buy & hold",
-      "equity": 97441.88,
-      "pnl": -2558.12,
-      "ret": -0.0256,
-      "trades": 1,
-      "days": 10,
-      "since": "2026-07-07",
-      "cash": 1395.26,
-      "holdings": [
-        {
-          "t": "QQQ",
-          "q": 138.0
-        }
-      ]
     }
   ]
 }
