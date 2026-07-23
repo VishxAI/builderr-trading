@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-07-22T20:54:35Z",
-  "as_of_market_date": "2026-07-22",
+  "generated_at_utc": "2026-07-23T15:47:28Z",
+  "as_of_market_date": "2026-07-23",
   "round_id": "trading-v0-round-2",
   "round_name": "Round 2",
   "round_start": "2026-07-07",
@@ -405,23 +405,6 @@
       "since": "2026-07-07"
     },
     {
-      "name": "QQQ",
-      "label": "market context \u00b7 QQQ buy & hold",
-      "equity": 98722.53,
-      "pnl": -1277.47,
-      "ret": -0.0128,
-      "trades": 1,
-      "days": 12,
-      "since": "2026-07-07",
-      "cash": 1395.26,
-      "holdings": [
-        {
-          "t": "QQQ",
-          "q": 138.0
-        }
-      ]
-    },
-    {
       "name": "sankeerth",
       "label": "round 2 \u00b7 entrant",
       "equity": 98685.95,
@@ -430,6 +413,23 @@
       "trades": 13,
       "days": 3,
       "since": "2026-07-07"
+    },
+    {
+      "name": "QQQ",
+      "label": "market context \u00b7 QQQ buy & hold",
+      "equity": 96532.47,
+      "pnl": -3467.53,
+      "ret": -0.0347,
+      "trades": 1,
+      "days": 13,
+      "since": "2026-07-07",
+      "cash": 1395.26,
+      "holdings": [
+        {
+          "t": "QQQ",
+          "q": 138.0
+        }
+      ]
     }
   ]
 }
