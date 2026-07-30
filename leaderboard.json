@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-07-29T20:42:31Z",
-  "as_of_market_date": "2026-07-29",
+  "generated_at_utc": "2026-07-30T15:45:09Z",
+  "as_of_market_date": "2026-07-30",
   "round_id": "trading-v0-round-2",
   "round_name": "Round 2",
   "round_start": "2026-07-07",
@@ -417,11 +417,11 @@
     {
       "name": "QQQ",
       "label": "market context \u00b7 QQQ buy & hold",
-      "equity": 92700.21,
-      "pnl": -7299.79,
-      "ret": -0.073,
+      "equity": 95278.04,
+      "pnl": -4721.96,
+      "ret": -0.0472,
       "trades": 1,
-      "days": 17,
+      "days": 18,
       "since": "2026-07-07",
       "cash": 1395.26,
       "holdings": [
