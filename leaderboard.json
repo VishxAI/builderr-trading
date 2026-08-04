@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-04T19:17:44Z",
+  "generated_at_utc": "2026-08-04T21:01:53Z",
   "as_of_market_date": "2026-08-04",
   "round_id": "trading-v0-round-2",
   "round_name": "Round 2",
@@ -165,23 +165,6 @@
       "since": "2026-07-07"
     },
     {
-      "name": "QQQ",
-      "label": "market context \u00b7 QQQ buy & hold",
-      "equity": 101482.51,
-      "pnl": 1482.51,
-      "ret": 0.0148,
-      "trades": 1,
-      "days": 21,
-      "since": "2026-07-07",
-      "cash": 1395.26,
-      "holdings": [
-        {
-          "t": "QQQ",
-          "q": 138.0
-        }
-      ]
-    },
-    {
       "name": "rohit",
       "label": "round 2 \u00b7 entrant",
       "equity": 101349.05,
@@ -220,6 +203,23 @@
       "trades": 5,
       "days": 3,
       "since": "2026-07-07"
+    },
+    {
+      "name": "QQQ",
+      "label": "market context \u00b7 QQQ buy & hold",
+      "equity": 101263.1,
+      "pnl": 1263.1,
+      "ret": 0.0126,
+      "trades": 1,
+      "days": 21,
+      "since": "2026-07-07",
+      "cash": 1395.26,
+      "holdings": [
+        {
+          "t": "QQQ",
+          "q": 138.0
+        }
+      ]
     },
     {
       "name": "rohan",
