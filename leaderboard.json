@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-07T16:40:35Z",
+  "generated_at_utc": "2026-08-07T18:38:16Z",
   "as_of_market_date": "2026-08-07",
   "round_id": "trading-v0-round-2",
   "round_name": "Round 2",
@@ -225,23 +225,6 @@
       "since": "2026-07-07"
     },
     {
-      "name": "QQQ",
-      "label": "market context \u00b7 QQQ buy & hold",
-      "equity": 100908.44,
-      "pnl": 908.44,
-      "ret": 0.0091,
-      "trades": 1,
-      "days": 24,
-      "since": "2026-07-07",
-      "cash": 1395.26,
-      "holdings": [
-        {
-          "t": "QQQ",
-          "q": 138.0
-        }
-      ]
-    },
-    {
       "name": "zaid",
       "label": "round 2 \u00b7 entrant",
       "equity": 100872.67,
@@ -260,6 +243,23 @@
       "trades": 5,
       "days": 1,
       "since": "2026-07-09"
+    },
+    {
+      "name": "QQQ",
+      "label": "market context \u00b7 QQQ buy & hold",
+      "equity": 100726.28,
+      "pnl": 726.28,
+      "ret": 0.0073,
+      "trades": 1,
+      "days": 24,
+      "since": "2026-07-07",
+      "cash": 1395.26,
+      "holdings": [
+        {
+          "t": "QQQ",
+          "q": 138.0
+        }
+      ]
     },
     {
       "name": "darshan",
